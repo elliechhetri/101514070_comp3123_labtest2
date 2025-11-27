@@ -27,4 +27,15 @@ API was tested in Postman using parameters:
 
 ## Notes
 - node_modules is ignored  
-- Screenshots of app and Postman results are attached in the submission document  
+- Screenshots of app and Postman results are attached in the submission document
+
+## Screens / Output Description
+
+- Screen 1: Initial page with the Weather App title and empty search box.
+- Screen 2: Weather result for Ottawa, CA (shows icon, temperature, feels like, humidity, wind).
+- Screen 3: Weather result for New York, US with updated values.
+- Screen 4: Postman request showing query params (q and appid) for Toronto.
+- Screen 5: Postman JSON response from OpenWeatherMap for Toronto.
+
+The actual screenshots are included in the submitted PDF/DOCX document.
+
